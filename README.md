@@ -1,29 +1,12 @@
-# README #
+# guest-table-sql
+guest-table-sqlは、主にエッジアプリケーションにおいて、ゲストテーブルを作成するためのレポジトリです。  
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## sqlの設定ファイル
+guest-table-sqlには、sqlの設定ファイルとして、guest-table-sql.sqlが含まれています。  
 
-### What is this repository for? ###
+## MySQLのセットアップ / Kubernetesの設定 / SQLテーブルの作成方法
+MySQLのセットアップ / Kubernetesの設定 / 具体的なSQLテーブルの作成方法、については、[mysql-kube](https://github.com/latonaio/mysql-kube)を参照ください。
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
