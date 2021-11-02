@@ -23,4 +23,4 @@ CREATE TABLE `guest`
     CONSTRAINT `gender_fk` FOREIGN KEY (`gender`) REFERENCES `gender_master` (`gender_id`)
 ) ENGINE = InnoDB
   AUTO_INCREMENT = 1
-  DEFAULT CHARSET = utf8;
+  DEFAULT CHARSET = utf8mb4;
